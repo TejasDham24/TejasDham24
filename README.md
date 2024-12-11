@@ -33,7 +33,6 @@ We used various types of machine learning algorithms for more accurate results
 and to find the which factors can affect the children’s health.
 
 #To Check Impact of Various Components of Automobile on Price 
-
 [Feb 2022-Apr 2022] 
 
 Key Skills: Statistical Data Analysis, Regression, Data Visualization, Hypothesis Testing. 
