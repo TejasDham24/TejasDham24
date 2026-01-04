@@ -1,50 +1,29 @@
+##👋 Hi, I’m Tejas Dham
+I enjoy turning messy data into clear insights and meaningful stories.
+🎓 Master’s in Applied Statistics with Data Science | 📊 Aspiring Data Analyst
+I’m passionate about working with data—exploring patterns, asking the right questions, and using statistics and machine learning to solve real-world problems. I especially enjoy projects where data supports smarter decisions and creates real impact.
 
-##Hi there! I'm Tejas Dham 👋
+##🛠️ Skills & Tools
+•	Programming: Python, R, Advanced Excel
+•	Data Visualization: Power BI, Tableau
+•	Analytics & Statistics: EDA, Linear & Logistic Regression, Time Series Analysis, Hypothesis Testing
+•	Machine Learning: Supervised Learning, NLP, Sentiment Analysis
+•	Databases: SQL
 
-🎓 Master's in Statistics with Data Science | 📊 Data Analyst
+##🚀 Selected Projects
+Anemia Prevalence and Risk Factors Among Children (6–59 Months) in India
+Jan 2024 – Apr 2024
+Analyzed large-scale data to understand anemia prevalence among young children in India.
+The study showed that nearly 69% of children in this age group are affected. I used machine learning models to improve prediction accuracy and identify key health-related risk factors.
+Skills: EDA, Big Data Analysis, Data Visualization, Machine Learning
 
-I'm a passionate data analyst with a strong foundation in statistics, data science, and a keen interest in 
-deriving actionable insights from complex data.
-My journey in data analytics has been fueled by my curiosity and dedication to learning and 
-applying cutting-edge techniques to solve real-world problems.
+##Impact of Automobile Components on Price
+Feb 2022 – Apr 2022
+Studied how different automobile features influence pricing. Found that engine displacement, fuel type, body style, and number of airbags play a major role. Built a regression model to predict prices and help identify economical and comfortable car options.
+Skills: Statistical Analysis, Regression, Data Visualization, Hypothesis Testing
 
-🌟 Key Skills & Tools
+##🌐 Let’s Connect
+•	LinkedIn: https://www.linkedin.com/in/tejasdham
+•	Portfolio: https://tejasdham24.github.io/
+I’m always open to learning, collaborating on interesting data projects, and connecting with people who love data as much as I do.
 
-Programming: Python, R, Advance Excel
-
-Data Visualization: Power BI, Tableau
-
-Statistical Modeling: Linear & Logistic Regression, Time Series Analysis
-
-Machine Learning: Supervised Learning, NLP, Sentiment Analysis
-
-Database Management: SQL
-
-🚀 Projects
-
-#Anemia Prevalence and Risk Factors Among 6 to 59 Months Children in India 
-[Jan 2024-Apr 2024]
-
-Key Skills: Exploratory Data Analysis (EDA), Big Data Analysis, Data Visualization, Machine Learning Techniques 
-
-Conclusion: From this study we have observed that the prevalence of anemia among age group 6 to 59 months’ 
-children in India there is approximately 69 % children have anemia. 
-We used various types of machine learning algorithms for more accurate results 
-and to find the which factors can affect the children’s health.
-
-#To Check Impact of Various Components of Automobile on Price 
-[Feb 2022-Apr 2022] 
-
-Key Skills: Statistical Data Analysis, Regression, Data Visualization, Hypothesis Testing. 
-
-Conclusion: In our research on car prices, we identified displacement (cc), fuel type, body style and number of airbags 
-as the primary factors influencing an automobile's price. 
-We used a regression model to predict car prices based on these key features, helping us 
-select the most economical and comfortable options.
-
-💬 Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/tejasdham
-
-I'm always eager to collaborate on new projects and explore innovative ways to use data for impactful decisions. 
-Let's connect and create something amazing together!
